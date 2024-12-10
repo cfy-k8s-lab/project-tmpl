@@ -1,1 +1,3 @@
-# project-tmpl
+# {{ PROJECT }}
+
+Environment: {{ ENV }}
